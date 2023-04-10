@@ -10,3 +10,5 @@ LTs sample and using the same axionic mass ($m_{a}=1.9\times10^{-23}$ eV). The d
 3. Correlation times behavior for each MCMC
 
 4. Relatons and diagnostics
+
+5. Density profiles

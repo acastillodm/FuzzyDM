@@ -9,7 +9,7 @@ LTs sample and using the axionic mass as free parameter. The directories contain
 
 3. Correlation times behavior for each MCMC
 
-4. Relatons and diagnostics
+4. Relations and diagnostics
 
 5. Density profiles
 

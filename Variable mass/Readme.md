@@ -1,6 +1,6 @@
 # Variable mass analysis for RCs
 
-Results for the global simultaneous fit to the parameters involving the rotation curves of all 10 galaxies in the
+Results for the global simultaneous fit to the parameters involving the rotation curves of all 13 galaxies in the
 LTs sample and using the axionic mass as free parameter. The directories contain the following diagnostics and results:
 
 1. Fits on RCs

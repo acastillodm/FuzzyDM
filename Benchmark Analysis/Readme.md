@@ -12,3 +12,5 @@ LTs sample and using the same axionic mass ($m_{a}=1.9\times10^{-23}$ eV). The d
 4. Relatons and diagnostics
 
 5. Density profiles
+
+Note: In the cases where it applies, $c_{\text{vir}}$ is used to denote the concentration parameter, while in our paper we use the shorthand $c.$

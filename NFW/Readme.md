@@ -9,3 +9,5 @@ Results for the fit in the NFW mass model. The directories contain the following
 3. Correlation times behavior for each MCMC
 
 4. Relations and diagnostics
+
+Note: In the plots where it applies, the concentration parameter $c\textsubscript{vir}$ is used to denote the concentration parameter, while in our paper we use the shorthand $c.$

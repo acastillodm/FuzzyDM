@@ -10,4 +10,4 @@ Results for the fit in the NFW mass model. The directories contain the following
 
 4. Relations and diagnostics
 
-Note: In the plots where it applies, the concentration parameter $c_{\text{vir}}$ is used to denote the concentration parameter, while in our paper we use the shorthand $c.$
+Note: In the plots where it applies, $c_{\text{vir}}$ is used to denote the concentration parameter, while in our paper we use the shorthand $c.$

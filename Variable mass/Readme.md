@@ -13,4 +13,4 @@ LTs sample and using the axionic mass as free parameter. The directories contain
 
 5. Density profiles
 
-Note: In the cases where it applies, $c_{\text{vir}}$ is used to denote the concentration parameter, while in our paper we use the shorthand $c.$
+Note: In the cases where it applies, $c_{\text{vir}}$ is used to denote the concentration parameter, while in our paper we use the shorthand $c.$ Also, in the corner plots of the scaling correlations section of the variable mass analysis, $<\sigma^2>$ is the mean square error used to express the units of the error parameter $v.$
